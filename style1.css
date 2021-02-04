@@ -1,0 +1,23 @@
+.title {
+	background-color: #161616;
+}
+
+h1 {
+	font-family: 'Hanalei', cursive;
+	font-weight: bold;
+	font-size: 4rem;
+	color: white;
+}
+
+.photo {
+	height: 100%;
+  	width: 100%;
+}
+
+.text {
+	font-family: 'Lemonada', cursive;
+	font-weight: bold;
+	font-size: 2rem;
+	line-height: 1.5;
+	color: white;
+}
